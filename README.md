@@ -29,11 +29,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 Stats
+## 📊 GitHub Stats
 
 <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=voloshkin-v&show_icons=true&theme=dark&hide=stars" />
 <img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=voloshkin-v&layout=compact&theme=dark" />
 
-## 📥 Contacts
+## 📥 Get In Touch
 <a href="https://www.linkedin.com/in/vvoloshyn">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:voloshin.v.02@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
