@@ -35,5 +35,5 @@
 <img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=voloshkin-v&layout=compact&theme=dark" />
 
 ## 📥 Contacts
-<a href="https://www.linkedin.com/in/vvoloshyn" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto:voloshin.v.02@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/vvoloshyn">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:voloshin.v.02@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
