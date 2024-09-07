@@ -32,8 +32,8 @@
 
 ## 📊 GitHub Stats
 
-<img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=voloshkin-v&show_icons=true&theme=dark&hide=stars" />
-<img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=voloshkin-v&layout=compact&theme=dark" />
+<img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=voloshynvv&show_icons=true&theme=dark&hide=stars" />
+<img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=voloshynvv&layout=compact&theme=dark" />
 
 ## 📥 Get In Touch
 <a href="https://www.linkedin.com/in/vvoloshyn">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
